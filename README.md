@@ -7,4 +7,4 @@
 * **Issue Date:** April 18, 2026
 * **Certificate ID:** 1159451
 
-![Scrum Fundamentals Certified](image(2).png)
+![Scrum Fundamentals Certified](Scrum.png)
